@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @borc23 or Bor
 - 👀 I’m interested in Artificial Intelligence, such as Computer Vision, ML, Deep Learning
 - 🌱 I’m currently learning Computer Vision as it is part of my internship
-- 🌱 I’m currently in undergraduate program for Electrical Engineering in University of Ljubljana
+- 🌱 I’m currently in masters program for Control Systems and Computer Engineering in University of Ljubljana
 - 💞️ I’m looking to collaborate on anything about AI because I want to expand my knowledge
 - 📫 How to reach me: 
 -                   -Gmail: borc23@gmail.com
