@@ -1,0 +1,11 @@
+2,?
+hisa,4
+x,i,S,a
+x,i,S,e
+x,i,S,i
+x,i,S,O
+cesta,4
+ts,e,s,t,a
+ts,e,s,t,e
+ts,e,s,t,i
+ts,e,s,t,o
