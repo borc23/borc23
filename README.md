@@ -4,5 +4,5 @@
 - 🌱 I’m currently in masters program for Control Systems and Computer Engineering in University of Ljubljana
 - 💞️ I’m looking to collaborate on anything about AI because I want to expand my knowledge
 - 📫 How to reach me: 
--                   -Gmail: borc23@gmail.com
+-                   -Gmail: borcerne.business@outlook.com
 -                   -LinkedIn: https://www.linkedin.com/in/borcerne
